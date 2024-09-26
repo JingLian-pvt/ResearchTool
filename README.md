@@ -1,1 +1,1 @@
-This folder contains some useeful scripts I used for research
+This folder contains some useful scripts I used for research, feel free to contribute!
